@@ -1,0 +1,7 @@
+**This project uses one Raspberry Pi and so the code is to be run on one raspberry pi**
+
+1) Copy paste the code into a RaspberryPi editor
+2) The circuit is to be setup as shown in the video
+3) Once the circuit is done we will need a sample of soil or wet cloth to simulate the level of moisture found in the ground.
+4) After that we can run the code from the terminal or from the code editor directly. 
+5) Once this is done the expected result should be displaayed on the screen. 
